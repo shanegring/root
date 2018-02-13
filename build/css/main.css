@@ -6,7 +6,7 @@
 /*Fitness*/
 /*Comfort*/
 /*Sound*/
-/*Material*/
+/*Materials*/
 /*Mind*/
 /*Community*/
 @import url("https://use.typekit.net/zcy3uha.css");
@@ -28,6 +28,46 @@
 
 .darkestwellblue {
   background-color: #275c6a;
+}
+
+.well-air-bg {
+  background-color: #144249;
+}
+
+.well-water-bg {
+  background-color: #0B667F;
+}
+
+.well-nourishment-bg {
+  background-color: #0A7B98;
+}
+
+.well-light-bg {
+  background-color: #3C9EB7;
+}
+
+.well-fitness-bg {
+  background-color: #92CCD4;
+}
+
+.well-comfort-bg {
+  background-color: #A8D6AD;
+}
+
+.well-sound-bg {
+  background-color: #63AA85;
+}
+
+.well-materials-bg {
+  background-color: #41937D;
+}
+
+.well-mind-bg {
+  background-color: #306B5E;
+}
+
+.well-community-bg {
+  background-color: #23483E;
 }
 
 /*!
@@ -9295,7 +9335,7 @@ select.selectpicker {
 /*Fitness*/
 /*Comfort*/
 /*Sound*/
-/*Material*/
+/*Materials*/
 /*Mind*/
 /*Community*/
 .lightestwellblue {
@@ -9316,6 +9356,46 @@ select.selectpicker {
 
 .darkestwellblue {
   background-color: #275c6a;
+}
+
+.well-air-bg {
+  background-color: #144249;
+}
+
+.well-water-bg {
+  background-color: #0B667F;
+}
+
+.well-nourishment-bg {
+  background-color: #0A7B98;
+}
+
+.well-light-bg {
+  background-color: #3C9EB7;
+}
+
+.well-fitness-bg {
+  background-color: #92CCD4;
+}
+
+.well-comfort-bg {
+  background-color: #A8D6AD;
+}
+
+.well-sound-bg {
+  background-color: #63AA85;
+}
+
+.well-materials-bg {
+  background-color: #41937D;
+}
+
+.well-mind-bg {
+  background-color: #306B5E;
+}
+
+.well-community-bg {
+  background-color: #23483E;
 }
 
 select.bs-select-hidden,
@@ -10061,7 +10141,7 @@ table {
 /*Fitness*/
 /*Comfort*/
 /*Sound*/
-/*Material*/
+/*Materials*/
 /*Mind*/
 /*Community*/
 .lightestwellblue {
@@ -10082,6 +10162,46 @@ table {
 
 .darkestwellblue {
   background-color: #275c6a;
+}
+
+.well-air-bg {
+  background-color: #144249;
+}
+
+.well-water-bg {
+  background-color: #0B667F;
+}
+
+.well-nourishment-bg {
+  background-color: #0A7B98;
+}
+
+.well-light-bg {
+  background-color: #3C9EB7;
+}
+
+.well-fitness-bg {
+  background-color: #92CCD4;
+}
+
+.well-comfort-bg {
+  background-color: #A8D6AD;
+}
+
+.well-sound-bg {
+  background-color: #63AA85;
+}
+
+.well-materials-bg {
+  background-color: #41937D;
+}
+
+.well-mind-bg {
+  background-color: #306B5E;
+}
+
+.well-community-bg {
+  background-color: #23483E;
 }
 
 nav {
@@ -10276,7 +10396,7 @@ input:focus, textarea:focus {
 /*Fitness*/
 /*Comfort*/
 /*Sound*/
-/*Material*/
+/*Materials*/
 /*Mind*/
 /*Community*/
 .lightestwellblue {
@@ -10297,6 +10417,46 @@ input:focus, textarea:focus {
 
 .darkestwellblue {
   background-color: #275c6a;
+}
+
+.well-air-bg {
+  background-color: #144249;
+}
+
+.well-water-bg {
+  background-color: #0B667F;
+}
+
+.well-nourishment-bg {
+  background-color: #0A7B98;
+}
+
+.well-light-bg {
+  background-color: #3C9EB7;
+}
+
+.well-fitness-bg {
+  background-color: #92CCD4;
+}
+
+.well-comfort-bg {
+  background-color: #A8D6AD;
+}
+
+.well-sound-bg {
+  background-color: #63AA85;
+}
+
+.well-materials-bg {
+  background-color: #41937D;
+}
+
+.well-mind-bg {
+  background-color: #306B5E;
+}
+
+.well-community-bg {
+  background-color: #23483E;
 }
 
 /* Buttons */
@@ -10761,7 +10921,7 @@ input:focus, textarea:focus {
 /*Fitness*/
 /*Comfort*/
 /*Sound*/
-/*Material*/
+/*Materials*/
 /*Mind*/
 /*Community*/
 .lightestwellblue {
@@ -10782,6 +10942,46 @@ input:focus, textarea:focus {
 
 .darkestwellblue {
   background-color: #275c6a;
+}
+
+.well-air-bg {
+  background-color: #144249;
+}
+
+.well-water-bg {
+  background-color: #0B667F;
+}
+
+.well-nourishment-bg {
+  background-color: #0A7B98;
+}
+
+.well-light-bg {
+  background-color: #3C9EB7;
+}
+
+.well-fitness-bg {
+  background-color: #92CCD4;
+}
+
+.well-comfort-bg {
+  background-color: #A8D6AD;
+}
+
+.well-sound-bg {
+  background-color: #63AA85;
+}
+
+.well-materials-bg {
+  background-color: #41937D;
+}
+
+.well-mind-bg {
+  background-color: #306B5E;
+}
+
+.well-community-bg {
+  background-color: #23483E;
 }
 
 .well--air {
@@ -10808,12 +11008,12 @@ input:focus, textarea:focus {
   color: #A8D6AD;
 }
 
-.well--mind {
-  color: #306B5E;
-}
-
 .well--sound {
   color: #63AA85;
+}
+
+.well--mind {
+  color: #306B5E;
 }
 
 .well--community {
