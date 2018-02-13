@@ -22,3 +22,7 @@ For each component, we’ll determine how to deploy, where to use, articulate th
 + Illustrations
 + Patterns
 
+
+[![Build Status](https://travis-ci.org/shanegring/root.svg?branch=master)](https://travis-ci.org/shanegring/root)
+
+[![Coverage Status](https://coveralls.io/repos/github/shanegring/root/badge.svg?branch=master)](https://coveralls.io/github/shanegring/root?branch=master)
