@@ -16,7 +16,6 @@ $silver: #ccc;
 
 $well-blue: #429DB5;
 
-
 $deep-ocean: #144249; /*Air*/
 $ocean-blue: #0B667F; /*Water*/
 $water-blue: #0A7B98; /*Nourishment*/
@@ -30,7 +29,7 @@ $darkest-green: #23483E; /*Community*/
 
 
 $dark-grey: #626262;
-
+$light-grey:#DFE4E8;
 
 
 
@@ -76,6 +75,30 @@ $dark-grey: #626262;
 
 .deepcharcoal {
 	background-color: darken($dark-grey, 20);
+}
+
+
+
+
+
+.lightestcloud {
+	background-color: lighten($light-grey, 20);
+}
+
+.lightcloud {
+	background-color: lighten($light-grey, 10);
+}
+
+.cloudygrey {
+	background-color: $light-grey;
+}
+
+.darkcloud {
+	background-color: darken($light-grey, 10);
+}
+
+.darkestcloud {
+	background-color: darken($light-grey, 20);
 }
 
 
