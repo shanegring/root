@@ -15,10 +15,6 @@ $silver: #ccc;
 
 
 $well-blue: #429DB5;
-$well-lightest-blue: lighten($well-blue, 20);
-$well-light-blue: lighten ($well-blue, 10);
-$well-dark-blue:  darken ($well-blue, 10);
-$well-darkest-blue: darken ($well-blue, 20);
 
 
 $deep-ocean: #144249; /*Air*/
@@ -31,6 +27,11 @@ $grassy-green: #63AA85; /*Sound*/
 $sea-green: #41937D; /*Materials*/
 $deep-green: #306B5E; /*Mind*/
 $darkest-green: #23483E; /*Community*/
+
+
+$dark-grey: #626262;
+
+
 
 
 .lightestwellblue {
@@ -51,6 +52,30 @@ $darkest-green: #23483E; /*Community*/
 
 .darkestwellblue {
 	background-color: darken($well-blue, 20);
+}
+
+
+
+
+
+.lightsmoke {
+	background-color: lighten($dark-grey, 20);
+}
+
+.smoke {
+	background-color: lighten($dark-grey, 10);
+}
+
+.charcoal {
+	background-color: $dark-grey;
+}
+
+.darkcharcoal {
+	background-color: darken($dark-grey, 10);
+}
+
+.deepcharcoal {
+	background-color: darken($dark-grey, 20);
 }
 
 
