@@ -14,11 +14,11 @@ $gold: #C48E29;
 $silver: #ccc;
 
 
-$well-lightest-blue: #A7D0DB;
-$well-light-blue: #61ACC0;
+$well-lightest-blue: lighten($well-blue, 20%);
+$well-light-blue: lighten ($well-blue, 10%);
 $well-blue: #429DB5;
-$well-dark-blue: #429DB5;
-$well-darkest-blue: #429DB5;
+$well-dark-blue:  darken ($well-blue, 10%);
+$well-darkest-blue: darken ($well-blue, 20%);
 
 
 $deep-ocean: #144249;
@@ -31,6 +31,28 @@ $grassy-green: #63AA85;
 $sea-green: #41937D;
 $deep-green: #306B5E;
 $darkest-green: #23483E;
+
+
+.lightestwellblue {
+	background-color: $well-lightest-blue;
+}
+
+.lightwellblue {
+	background-color: lighten ($well-blue, 10%);
+}
+
+.wellblue {
+	background-color: $well-blue;
+}
+
+.darkwellblue {
+	background-color: $well-dark-blue;
+}
+
+.darkestwellblue {
+	background-color: $well-darkest-blue;
+}
+
 
 
 
