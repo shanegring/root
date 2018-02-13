@@ -15,7 +15,7 @@
 }
 
 .lightwellblue {
-  background-color: lighten #429DB5, 10;
+  background-color: #64b2c6;
 }
 
 .wellblue {
@@ -23,11 +23,11 @@
 }
 
 .darkwellblue {
-  background-color: darken #429DB5, 10;
+  background-color: #347d90;
 }
 
 .darkestwellblue {
-  background-color: darken #429DB5, 20;
+  background-color: #275c6a;
 }
 
 /*!
@@ -9303,7 +9303,7 @@ select.selectpicker {
 }
 
 .lightwellblue {
-  background-color: lighten #429DB5, 10;
+  background-color: #64b2c6;
 }
 
 .wellblue {
@@ -9311,11 +9311,11 @@ select.selectpicker {
 }
 
 .darkwellblue {
-  background-color: darken #429DB5, 10;
+  background-color: #347d90;
 }
 
 .darkestwellblue {
-  background-color: darken #429DB5, 20;
+  background-color: #275c6a;
 }
 
 select.bs-select-hidden,
@@ -10069,7 +10069,7 @@ table {
 }
 
 .lightwellblue {
-  background-color: lighten #429DB5, 10;
+  background-color: #64b2c6;
 }
 
 .wellblue {
@@ -10077,11 +10077,11 @@ table {
 }
 
 .darkwellblue {
-  background-color: darken #429DB5, 10;
+  background-color: #347d90;
 }
 
 .darkestwellblue {
-  background-color: darken #429DB5, 20;
+  background-color: #275c6a;
 }
 
 nav {
@@ -10284,7 +10284,7 @@ input:focus, textarea:focus {
 }
 
 .lightwellblue {
-  background-color: lighten #429DB5, 10;
+  background-color: #64b2c6;
 }
 
 .wellblue {
@@ -10292,11 +10292,11 @@ input:focus, textarea:focus {
 }
 
 .darkwellblue {
-  background-color: darken #429DB5, 10;
+  background-color: #347d90;
 }
 
 .darkestwellblue {
-  background-color: darken #429DB5, 20;
+  background-color: #275c6a;
 }
 
 /* Buttons */
@@ -10769,7 +10769,7 @@ input:focus, textarea:focus {
 }
 
 .lightwellblue {
-  background-color: lighten #429DB5, 10;
+  background-color: #64b2c6;
 }
 
 .wellblue {
@@ -10777,11 +10777,11 @@ input:focus, textarea:focus {
 }
 
 .darkwellblue {
-  background-color: darken #429DB5, 10;
+  background-color: #347d90;
 }
 
 .darkestwellblue {
-  background-color: darken #429DB5, 20;
+  background-color: #275c6a;
 }
 
 .well--air {
@@ -10918,7 +10918,7 @@ input:focus, textarea:focus {
   padding-left: 1.6rem;
   font-size: 1rem;
   color: #fff;
-  background-color: #f4f6f8;
+  /*background-color: #f4f6f8;*/
 }
 
 .ColorPaletteLabel {
