@@ -9,6 +9,7 @@
 /*Materials*/
 /*Mind*/
 /*Community*/
+/* Dark Greys */
 @import url("https://use.typekit.net/zcy3uha.css");
 .lightestcloud {
   background-color: #F6F7F9;
@@ -30,6 +31,7 @@
   background-color: #b0b3b6;
 }
 
+/* WELL Blue */
 .lightestwellblue {
   background-color: #89c4d4;
 }
@@ -50,6 +52,7 @@
   background-color: #275c6a;
 }
 
+/* Light Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -70,6 +73,7 @@
   background-color: #2f2f2f;
 }
 
+/* Seven concept WELL colors*/
 .well-air-bg {
   background-color: #144249;
 }
@@ -110,6 +114,8 @@
   background-color: #23483E;
 }
 
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 /*!
  * Bootstrap v4.0.0-alpha.6 (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
@@ -2306,22 +2312,22 @@ pre code {
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #999;
+  color: #636c72;
   opacity: 1;
 }
 
 .form-control:-ms-input-placeholder {
-  color: #999;
+  color: #636c72;
   opacity: 1;
 }
 
 .form-control::-ms-input-placeholder {
-  color: #999;
+  color: #636c72;
   opacity: 1;
 }
 
 .form-control::placeholder {
-  color: #999;
+  color: #636c72;
   opacity: 1;
 }
 
@@ -9044,7 +9050,7 @@ select.selectpicker {
 }
 
 .bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
-  color: #999;
+  color: #636c72;
 }
 
 .bootstrap-select > select {
@@ -9378,6 +9384,7 @@ select.selectpicker {
 /*Materials*/
 /*Mind*/
 /*Community*/
+/* Dark Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -9398,6 +9405,7 @@ select.selectpicker {
   background-color: #b0b3b6;
 }
 
+/* WELL Blue */
 .lightestwellblue {
   background-color: #89c4d4;
 }
@@ -9418,6 +9426,7 @@ select.selectpicker {
   background-color: #275c6a;
 }
 
+/* Light Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -9438,6 +9447,7 @@ select.selectpicker {
   background-color: #2f2f2f;
 }
 
+/* Seven concept WELL colors*/
 .well-air-bg {
   background-color: #144249;
 }
@@ -9478,6 +9488,8 @@ select.selectpicker {
   background-color: #23483E;
 }
 
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 select.bs-select-hidden,
 select.selectpicker {
   display: none !important;
@@ -9495,7 +9507,7 @@ select.selectpicker {
 }
 
 .bootstrap-select > .dropdown-toggle.bs-placeholder, .bootstrap-select > .dropdown-toggle.bs-placeholder:hover, .bootstrap-select > .dropdown-toggle.bs-placeholder:focus, .bootstrap-select > .dropdown-toggle.bs-placeholder:active {
-  color: #999;
+  color: #636c72;
 }
 
 .bootstrap-select > select {
@@ -10224,6 +10236,7 @@ table {
 /*Materials*/
 /*Mind*/
 /*Community*/
+/* Dark Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -10244,6 +10257,7 @@ table {
   background-color: #b0b3b6;
 }
 
+/* WELL Blue */
 .lightestwellblue {
   background-color: #89c4d4;
 }
@@ -10264,6 +10278,7 @@ table {
   background-color: #275c6a;
 }
 
+/* Light Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -10284,6 +10299,7 @@ table {
   background-color: #2f2f2f;
 }
 
+/* Seven concept WELL colors*/
 .well-air-bg {
   background-color: #144249;
 }
@@ -10324,6 +10340,8 @@ table {
   background-color: #23483E;
 }
 
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 nav {
   background: #38138E;
   text-align: center;
@@ -10519,6 +10537,7 @@ input:focus, textarea:focus {
 /*Materials*/
 /*Mind*/
 /*Community*/
+/* Dark Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -10539,6 +10558,7 @@ input:focus, textarea:focus {
   background-color: #b0b3b6;
 }
 
+/* WELL Blue */
 .lightestwellblue {
   background-color: #89c4d4;
 }
@@ -10559,6 +10579,7 @@ input:focus, textarea:focus {
   background-color: #275c6a;
 }
 
+/* Light Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -10579,6 +10600,7 @@ input:focus, textarea:focus {
   background-color: #2f2f2f;
 }
 
+/* Seven concept WELL colors*/
 .well-air-bg {
   background-color: #144249;
 }
@@ -10619,6 +10641,8 @@ input:focus, textarea:focus {
   background-color: #23483E;
 }
 
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 /* Buttons */
 .btn {
   border-radius: 0;
@@ -11084,6 +11108,7 @@ input:focus, textarea:focus {
 /*Materials*/
 /*Mind*/
 /*Community*/
+/* Dark Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -11104,6 +11129,7 @@ input:focus, textarea:focus {
   background-color: #b0b3b6;
 }
 
+/* WELL Blue */
 .lightestwellblue {
   background-color: #89c4d4;
 }
@@ -11124,6 +11150,7 @@ input:focus, textarea:focus {
   background-color: #275c6a;
 }
 
+/* Light Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -11144,6 +11171,7 @@ input:focus, textarea:focus {
   background-color: #2f2f2f;
 }
 
+/* Seven concept WELL colors*/
 .well-air-bg {
   background-color: #144249;
 }
@@ -11184,6 +11212,8 @@ input:focus, textarea:focus {
   background-color: #23483E;
 }
 
+/* Placeholder text color
+$input-color-placeholder: #999 !default;*/
 .well--air {
   color: #144249;
 }
