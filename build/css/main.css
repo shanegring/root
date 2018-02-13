@@ -1,4 +1,25 @@
 /*red*/
+@import url("https://use.typekit.net/zcy3uha.css");
+.lightestwellblue {
+  background-color: #89c4d4;
+}
+
+.lightwellblue {
+  background-color: #64b2c6;
+}
+
+.wellblue {
+  background-color: #429DB5;
+}
+
+.darkwellblue {
+  background-color: #347d90;
+}
+
+.darkestwellblue {
+  background-color: #275c6a;
+}
+
 /*!
  * Bootstrap v4.0.0-alpha.6 (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
@@ -6,7 +27,6 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
-@import url("https://use.typekit.net/zcy3uha.css");
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -9258,6 +9278,26 @@ select.selectpicker {
 }
 
 /*red*/
+.lightestwellblue {
+  background-color: #89c4d4;
+}
+
+.lightwellblue {
+  background-color: #64b2c6;
+}
+
+.wellblue {
+  background-color: #429DB5;
+}
+
+.darkwellblue {
+  background-color: #347d90;
+}
+
+.darkestwellblue {
+  background-color: #275c6a;
+}
+
 select.bs-select-hidden,
 select.selectpicker {
   display: none !important;
@@ -9994,6 +10034,26 @@ table {
 }
 
 /*red*/
+.lightestwellblue {
+  background-color: #89c4d4;
+}
+
+.lightwellblue {
+  background-color: #64b2c6;
+}
+
+.wellblue {
+  background-color: #429DB5;
+}
+
+.darkwellblue {
+  background-color: #347d90;
+}
+
+.darkestwellblue {
+  background-color: #275c6a;
+}
+
 nav {
   background: #38138E;
   text-align: center;
@@ -10179,6 +10239,26 @@ input:focus, textarea:focus {
 }
 
 /*red*/
+.lightestwellblue {
+  background-color: #89c4d4;
+}
+
+.lightwellblue {
+  background-color: #64b2c6;
+}
+
+.wellblue {
+  background-color: #429DB5;
+}
+
+.darkwellblue {
+  background-color: #347d90;
+}
+
+.darkestwellblue {
+  background-color: #275c6a;
+}
+
 /* Buttons */
 .btn {
   border-radius: 0;
@@ -10633,47 +10713,46 @@ input:focus, textarea:focus {
   height: 15px;
 }
 
-/*red*/
+/*@import "./abstracts/variables";
+
 .well--air {
-  color: #144249;
+	color: $air-color;
 }
 
 .well--water {
-  color: #0B667F;
+	color: $water-color;
 }
 
 .well--nourishment {
-  color: #0A7B98;
+	color: $nourishment-color;
 }
 
 .well--light {
-  color: #3C9EB7;
+	color: $light-color;
 }
 
 .well--fitness {
-  color: #92CCD4;
+	color: $fitness-color;
 }
 
 .well--comfort {
-  color: #A8D6AD;
+	color: $comfort-color;
 }
 
 .well--mind {
-  color: #306B5E;
+	color: $mind-color;
 }
 
 .well--sound {
-  color: #63AA85;
+	color: $sound-color;
 }
-
 .well--community {
-  color: #23483E;
+	color: $community-color;
 }
 
 .well--black {
-  color: #000000;
-}
-
+	color: $black;
+}*/
 .list-group-item.active {
   z-index: 2;
   color: #fff;
