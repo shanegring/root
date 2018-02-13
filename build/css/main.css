@@ -15,7 +15,7 @@
 }
 
 .lightwellblue {
-  background-color: #64b2c6;
+  background-color: lighten #429DB5, 10;
 }
 
 .wellblue {
@@ -23,11 +23,11 @@
 }
 
 .darkwellblue {
-  background-color: #347d90;
+  background-color: darken #429DB5, 10;
 }
 
 .darkestwellblue {
-  background-color: #275c6a;
+  background-color: darken #429DB5, 20;
 }
 
 /*!
@@ -9303,7 +9303,7 @@ select.selectpicker {
 }
 
 .lightwellblue {
-  background-color: #64b2c6;
+  background-color: lighten #429DB5, 10;
 }
 
 .wellblue {
@@ -9311,11 +9311,11 @@ select.selectpicker {
 }
 
 .darkwellblue {
-  background-color: #347d90;
+  background-color: darken #429DB5, 10;
 }
 
 .darkestwellblue {
-  background-color: #275c6a;
+  background-color: darken #429DB5, 20;
 }
 
 select.bs-select-hidden,
@@ -10069,7 +10069,7 @@ table {
 }
 
 .lightwellblue {
-  background-color: #64b2c6;
+  background-color: lighten #429DB5, 10;
 }
 
 .wellblue {
@@ -10077,11 +10077,11 @@ table {
 }
 
 .darkwellblue {
-  background-color: #347d90;
+  background-color: darken #429DB5, 10;
 }
 
 .darkestwellblue {
-  background-color: #275c6a;
+  background-color: darken #429DB5, 20;
 }
 
 nav {
@@ -10284,7 +10284,7 @@ input:focus, textarea:focus {
 }
 
 .lightwellblue {
-  background-color: #64b2c6;
+  background-color: lighten #429DB5, 10;
 }
 
 .wellblue {
@@ -10292,11 +10292,11 @@ input:focus, textarea:focus {
 }
 
 .darkwellblue {
-  background-color: #347d90;
+  background-color: darken #429DB5, 10;
 }
 
 .darkestwellblue {
-  background-color: #275c6a;
+  background-color: darken #429DB5, 20;
 }
 
 /* Buttons */
@@ -10769,7 +10769,7 @@ input:focus, textarea:focus {
 }
 
 .lightwellblue {
-  background-color: #64b2c6;
+  background-color: lighten #429DB5, 10;
 }
 
 .wellblue {
@@ -10777,11 +10777,11 @@ input:focus, textarea:focus {
 }
 
 .darkwellblue {
-  background-color: #347d90;
+  background-color: darken #429DB5, 10;
 }
 
 .darkestwellblue {
-  background-color: #275c6a;
+  background-color: darken #429DB5, 20;
 }
 
 .well--air {
@@ -10809,19 +10809,19 @@ input:focus, textarea:focus {
 }
 
 .well--mind {
-  color: #63AA85;
-}
-
-.well--sound {
-  color: #41937D;
-}
-
-.well--community {
   color: #306B5E;
 }
 
-.well--black {
+.well--sound {
+  color: #63AA85;
+}
+
+.well--community {
   color: #23483E;
+}
+
+.well--black {
+  color: #000000;
 }
 
 .list-group-item.active {

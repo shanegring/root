@@ -34,11 +34,11 @@ $darkest-green: #23483E; /*Community*/
 
 
 .lightestwellblue {
-	background-color: lighten($well-blue, 20);
+	background-color: $well-lightest-blue;
 }
 
 .lightwellblue {
-	background-color: lighten($well-blue, 10);
+	background-color: $well-light-blue;
 }
 
 .wellblue {
@@ -46,11 +46,11 @@ $darkest-green: #23483E; /*Community*/
 }
 
 .darkwellblue {
-	background-color: darken($well-blue, 10);
+	background-color: $well-dark-blue;
 }
 
 .darkestwellblue {
-	background-color: darken($well-blue, 20);
+	background-color: $well-darkest-blue;
 }
 
 
