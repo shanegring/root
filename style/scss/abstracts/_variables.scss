@@ -1,8 +1,3 @@
-
-
-
-
-
 $white: #ffffff;
 $black: #000000;
 
@@ -12,24 +7,30 @@ $blue: #6AB7E1;
 $creme: #FFFAF0;
 
 
-#C40B07;  /*red*/ 
+$red:#C40B07;  /*red*/ 
 
 $platinum: #555;
 $gold: #C48E29;
 $silver: #ccc;
 
-$well-blue: #429DB5;
 
-$air-color: #144249;
-$water-color: #0B667F;
-$nourishment-color: #0A7B98;
-$light-color: #3C9EB7;
-$fitness-color: #92CCD4;
-$comfort-color: #A8D6AD;
-$sound-color: #63AA85;
-$material-color: #41937D;
-$mind-color: #306B5E;
-$community-color: #23483E;
+$well-lightest-blue: #A7D0DB;
+$well-light-blue: #61ACC0;
+$well-blue: #429DB5;
+$well-dark-blue: #429DB5;
+$well-darkest-blue: #429DB5;
+
+
+$deep-ocean: #144249;
+$ocean-blue: #0B667F;
+$water-blue: #0A7B98;
+$light-blue: #3C9EB7;
+$icy-blue: #92CCD4;
+$light-grass: #A8D6AD;
+$grassy-green: #63AA85;
+$sea-green: #41937D;
+$deep-green: #306B5E;
+$darkest-green: #23483E;
 
 
 
