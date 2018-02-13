@@ -29,7 +29,33 @@ $darkest-green: #23483E; /*Community*/
 
 
 $dark-grey: #626262;
-$light-grey:#DFE4E8;
+$light-grey:#E5E6E7;
+$lightest-cloud:#F6F7F9;
+
+
+
+
+.lightestcloud {
+	background-color: $lightest-cloud;
+}
+
+.lightcloud {
+	background-color: lighten($light-grey, 5);
+}
+
+.cloudygrey {
+	background-color: $light-grey;
+}
+
+.darkcloud {
+	background-color: darken($light-grey, 10);
+}
+
+.darkestcloud {
+	background-color: darken($light-grey, 20);
+}
+
+
 
 
 
@@ -80,26 +106,6 @@ $light-grey:#DFE4E8;
 
 
 
-
-.lightestcloud {
-	background-color: lighten($light-grey, 20);
-}
-
-.lightcloud {
-	background-color: lighten($light-grey, 10);
-}
-
-.cloudygrey {
-	background-color: $light-grey;
-}
-
-.darkcloud {
-	background-color: darken($light-grey, 10);
-}
-
-.darkestcloud {
-	background-color: darken($light-grey, 20);
-}
 
 
 
