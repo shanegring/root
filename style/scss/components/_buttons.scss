@@ -11,25 +11,22 @@
   font-weight: 700;
   letter-spacing: 0.05rem;
   padding: 0.5em 1em;
-  font-family: Roboto, sans-serif;
 
 }
-
-
 
 .btn.focus, .btn:focus {
 box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 }
 
 .btn-primary {
-  background-color: $well-blue;
-  border-color: $well-blue;
+  background-color: $primary;
+  border-color: $primary;
 }
 
 .btn-primary:hover {
-   color: $well-blue;
+   color: $primary;
    background-color: $white;
-   border-color: $well-blue;
+   border-color: $primary;
    opacity: .8;
 }
 
@@ -37,9 +34,9 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 .btn-primary:active, 
 .show>.btn-primary.dropdown-toggle {
     color: $white;
-    background-color: #49A1B8;
+    background-color: $primary;
     background-image: none;
-    border-color: #49A1B8;
+    border-color: $primary;
 }
 
 .btn-success {
@@ -187,15 +184,3 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 
 
-.searchbutton {
-  z-index: 33333;
-  display: inline;
-  width: 1%;
-  padding: 0.3em;
-}
-
-.searchbutton:hover {
-  background-color: #106680;
-  border: #106680;
-    width: 16%;
-}

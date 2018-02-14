@@ -19,6 +19,9 @@ button {
 @include sf-typekit('roboto');
 }
 
+.dropdown, .dropdown-item {
+@include sf-typekit('museo-sans');
+}
 
 
 body {
