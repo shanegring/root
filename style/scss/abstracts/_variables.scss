@@ -18,7 +18,7 @@ $well-blue: #429DB5;
 
 $deep-ocean: #144249; /*Air*/
 $ocean-blue: #0B667F; /*Water*/
-$water-blue: #0A7B98; /*Nourishment*/
+$sea-blue: #0A7B98; /*Nourishment*/
 $light-blue: #3C9EB7; /*Light*/
 $icy-blue: #92CCD4; /*Fitness*/
 $light-grass: #A8D6AD; /*Comfort*/
@@ -33,7 +33,7 @@ $light-grey:#E5E6E7;
 $lightest-cloud:#F6F7F9;
 
 
-/* Dark Greys */
+/* Light Greys */
 
 .lightestcloud {
 	background-color: $lightest-cloud;
@@ -54,6 +54,36 @@ $lightest-cloud:#F6F7F9;
 .darkestcloud {
 	background-color: darken($light-grey, 20);
 }
+
+
+
+
+
+/* Dark Grey */
+
+.lightsmoke {
+	background-color: lighten($dark-grey, 20);
+}
+
+.smoke {
+	background-color: lighten($dark-grey, 10);
+}
+
+.charcoal {
+	background-color: $dark-grey;
+}
+
+.burntcharcoal {
+	background-color: darken($dark-grey, 10);
+}
+
+.darkcharcoal {
+	background-color: darken($dark-grey, 20);
+}
+
+
+
+
 
 
 
@@ -81,31 +111,6 @@ $lightest-cloud:#F6F7F9;
 
 
 
-/* Light Grey */
-
-.lightsmoke {
-	background-color: lighten($dark-grey, 20);
-}
-
-.smoke {
-	background-color: lighten($dark-grey, 10);
-}
-
-.charcoal {
-	background-color: $dark-grey;
-}
-
-.darkcharcoal {
-	background-color: darken($dark-grey, 10);
-}
-
-.deepcharcoal {
-	background-color: darken($dark-grey, 20);
-}
-
-
-
-
 
 
 
@@ -120,7 +125,7 @@ $lightest-cloud:#F6F7F9;
 }
 
 .well-nourishment-bg {
-	background-color: $water-blue;
+	background-color: $sea-blue;
 }
 
 .well-light-bg {
