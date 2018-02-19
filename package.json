@@ -1,5 +1,5 @@
 {
-  "name": "root-well",
+  "name": "r00t",
   "version": "0.0.1",
   "main": "Gulpfile.js",
   "devDependencies": {
@@ -26,6 +26,9 @@
   "repository": {
     "type": "git"
   },
+  "engines": {
+  "node": ">=4.2.4"
+  },
   "keywords": [
     "algolia",
     "search",
@@ -49,7 +52,10 @@
   },
   "description": "The Function design language system, or /root, will provide staff, clients, and customers a shared understanding of our visual style, provide better access to analogue and digital resources, and streamline all contributions into a single, coherent system. This system will enable all users to prototype and experiment with ideas in high fidelity faster, at a lower cost, and in a more consistent voice.",
   "scripts": {
-    "test": "node_modules/.bin/mocha --reporter spec",
+    "test": "mocha --reporter spec",
     "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec test/*"
+  },
+  "directories": {
+    "test": "test"
   }
 }

@@ -14,7 +14,7 @@ $gold: #C48E29;
 $silver: #ccc;
 
 
-$well-blue: #429DB5;
+$primary: #F39019;
 
 $deep-ocean: #144249; /*Air*/
 $ocean-blue: #0B667F; /*Water*/
@@ -90,23 +90,23 @@ $lightest-cloud:#F6F7F9;
 /* WELL Blue */
 
 .lightestwellblue {
-	background-color: lighten($well-blue, 20);
+	background-color: lighten($primary, 20);
 }
 
 .lightwellblue {
-	background-color: lighten($well-blue, 10);
+	background-color: lighten($primary, 10);
 }
 
 .wellblue {
-	background-color: $well-blue;
+	background-color: $primary;
 }
 
 .darkwellblue {
-	background-color: darken($well-blue, 10);
+	background-color: darken($primary, 10);
 }
 
 .darkestwellblue {
-	background-color: darken($well-blue, 20);
+	background-color: darken($primary, 20);
 }
 
 

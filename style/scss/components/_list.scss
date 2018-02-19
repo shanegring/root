@@ -1,12 +1,5 @@
 
 
-.list-group-item.active {
-    z-index: 2;
-    color: #fff;
-    background-color: #429DB5;
-    border-color: #429DB5;
-}
-
 
 /* Lists */
 .list-group-item:last-child {
@@ -36,8 +29,10 @@
   }
 
 .list-group-item.active {
-    background-color: #49A1B8;
-    border-color: #49A1B8;
+    z-index: 2;
+    color: #fff;
+    background-color: $primary;
+    border-color: $primary;
   }
 
 

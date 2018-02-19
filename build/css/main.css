@@ -9,7 +9,7 @@
 /*Materials*/
 /*Mind*/
 /*Community*/
-/* Dark Greys */
+/* Light Greys */
 @import url("https://use.typekit.net/zcy3uha.css");
 .lightestcloud {
   background-color: #F6F7F9;
@@ -31,28 +31,7 @@
   background-color: #b0b3b6;
 }
 
-/* WELL Blue */
-.lightestwellblue {
-  background-color: #89c4d4;
-}
-
-.lightwellblue {
-  background-color: #64b2c6;
-}
-
-.wellblue {
-  background-color: #429DB5;
-}
-
-.darkwellblue {
-  background-color: #347d90;
-}
-
-.darkestwellblue {
-  background-color: #275c6a;
-}
-
-/* Light Grey */
+/* Dark Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -71,6 +50,27 @@
 
 .darkcharcoal {
   background-color: #2f2f2f;
+}
+
+/* WELL Blue */
+.lightestwellblue {
+  background-color: #f8bf7a;
+}
+
+.lightwellblue {
+  background-color: #f6a749;
+}
+
+.wellblue {
+  background-color: #F39019;
+}
+
+.darkwellblue {
+  background-color: #ce750b;
+}
+
+.darkestwellblue {
+  background-color: #9e5a08;
 }
 
 /* Seven concept WELL colors*/
@@ -9384,7 +9384,7 @@ select.selectpicker {
 /*Materials*/
 /*Mind*/
 /*Community*/
-/* Dark Greys */
+/* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -9405,28 +9405,7 @@ select.selectpicker {
   background-color: #b0b3b6;
 }
 
-/* WELL Blue */
-.lightestwellblue {
-  background-color: #89c4d4;
-}
-
-.lightwellblue {
-  background-color: #64b2c6;
-}
-
-.wellblue {
-  background-color: #429DB5;
-}
-
-.darkwellblue {
-  background-color: #347d90;
-}
-
-.darkestwellblue {
-  background-color: #275c6a;
-}
-
-/* Light Grey */
+/* Dark Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -9445,6 +9424,27 @@ select.selectpicker {
 
 .darkcharcoal {
   background-color: #2f2f2f;
+}
+
+/* WELL Blue */
+.lightestwellblue {
+  background-color: #f8bf7a;
+}
+
+.lightwellblue {
+  background-color: #f6a749;
+}
+
+.wellblue {
+  background-color: #F39019;
+}
+
+.darkwellblue {
+  background-color: #ce750b;
+}
+
+.darkestwellblue {
+  background-color: #9e5a08;
 }
 
 /* Seven concept WELL colors*/
@@ -9846,6 +9846,11 @@ button {
   font-weight: 400;
 }
 
+.dropdown, .dropdown-item {
+  font-family: "museo-sans";
+  font-weight: 400;
+}
+
 body {
   font-size: 100%;
   max-width: 100%;
@@ -10236,7 +10241,7 @@ table {
 /*Materials*/
 /*Mind*/
 /*Community*/
-/* Dark Greys */
+/* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -10257,28 +10262,7 @@ table {
   background-color: #b0b3b6;
 }
 
-/* WELL Blue */
-.lightestwellblue {
-  background-color: #89c4d4;
-}
-
-.lightwellblue {
-  background-color: #64b2c6;
-}
-
-.wellblue {
-  background-color: #429DB5;
-}
-
-.darkwellblue {
-  background-color: #347d90;
-}
-
-.darkestwellblue {
-  background-color: #275c6a;
-}
-
-/* Light Grey */
+/* Dark Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -10297,6 +10281,27 @@ table {
 
 .darkcharcoal {
   background-color: #2f2f2f;
+}
+
+/* WELL Blue */
+.lightestwellblue {
+  background-color: #f8bf7a;
+}
+
+.lightwellblue {
+  background-color: #f6a749;
+}
+
+.wellblue {
+  background-color: #F39019;
+}
+
+.darkwellblue {
+  background-color: #ce750b;
+}
+
+.darkestwellblue {
+  background-color: #9e5a08;
 }
 
 /* Seven concept WELL colors*/
@@ -10351,7 +10356,7 @@ nav {
 }
 
 .nav-link.active {
-  color: #429DB5;
+  color: #F39019;
 }
 
 /*nav menu button*/
@@ -10494,38 +10499,6 @@ input:focus, textarea:focus {
   background-color: #636c72;
 }
 
-.badge-gold {
-  background-color: #C48E29;
-}
-
-.badge-silver {
-  background-color: #ccc;
-}
-
-.badge-platinum {
-  background-color: #555;
-}
-
-.badge-primary {
-  background-color: #429DB5;
-}
-
-.badge-success {
-  background-color: #A6D7AC;
-}
-
-.badge-info {
-  background-color: #106680;
-}
-
-.badge-warning {
-  background-color: #DB7A13;
-}
-
-.badge-danger {
-  background-color: #C40B07;
-}
-
 /*red*/
 /*Air*/
 /*Water*/
@@ -10537,7 +10510,7 @@ input:focus, textarea:focus {
 /*Materials*/
 /*Mind*/
 /*Community*/
-/* Dark Greys */
+/* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
 }
@@ -10558,28 +10531,7 @@ input:focus, textarea:focus {
   background-color: #b0b3b6;
 }
 
-/* WELL Blue */
-.lightestwellblue {
-  background-color: #89c4d4;
-}
-
-.lightwellblue {
-  background-color: #64b2c6;
-}
-
-.wellblue {
-  background-color: #429DB5;
-}
-
-.darkwellblue {
-  background-color: #347d90;
-}
-
-.darkestwellblue {
-  background-color: #275c6a;
-}
-
-/* Light Grey */
+/* Dark Grey */
 .lightsmoke {
   background-color: #959595;
 }
@@ -10598,6 +10550,27 @@ input:focus, textarea:focus {
 
 .darkcharcoal {
   background-color: #2f2f2f;
+}
+
+/* WELL Blue */
+.lightestwellblue {
+  background-color: #f8bf7a;
+}
+
+.lightwellblue {
+  background-color: #f6a749;
+}
+
+.wellblue {
+  background-color: #F39019;
+}
+
+.darkwellblue {
+  background-color: #ce750b;
+}
+
+.darkestwellblue {
+  background-color: #9e5a08;
 }
 
 /* Seven concept WELL colors*/
@@ -10650,7 +10623,6 @@ $input-color-placeholder: #999 !default;*/
   font-weight: 700;
   letter-spacing: 0.05rem;
   padding: 0.5em 1em;
-  font-family: Roboto, sans-serif;
 }
 
 .btn.focus, .btn:focus {
@@ -10658,95 +10630,101 @@ $input-color-placeholder: #999 !default;*/
           box-shadow: 0 0 0 2px rgba(73, 161, 184, 0.25);
 }
 
+/*
 .btn-primary {
-  background-color: #429DB5;
-  border-color: #429DB5;
+  background-color: $primary;
+  border-color: $primary;
 }
 
 .btn-primary:hover {
-  color: #429DB5;
-  background-color: #ffffff;
-  border-color: #429DB5;
-  opacity: .8;
+   color: $primary;
+   background-color: $white;
+   border-color: $primary;
+   opacity: .8;
 }
 
-.btn-primary.active,
-.btn-primary:active,
-.show > .btn-primary.dropdown-toggle {
-  color: #ffffff;
-  background-color: #49A1B8;
-  background-image: none;
-  border-color: #49A1B8;
+.btn-primary.active, 
+.btn-primary:active, 
+.show>.btn-primary.dropdown-toggle {
+    color: $white;
+    background-color: $primary;
+    background-image: none;
+    border-color: $primary;
 }
 
 .btn-success {
-  color: #ffffff;
-  background-color: #A6D7AC;
-  border-color: #A6D7AC;
+    color: $white;
+    background-color: #A6D7AC;
+    border-color: #A6D7AC;
 }
 
 .btn-success:hover {
-  color: #ffffff;
-  background-color: #8BC392;
-  border-color: #8BC392;
+    color: $white;
+    background-color: #8BC392;
+    border-color: #8BC392;
 }
 
+
 .btn-danger {
-  color: #ffffff;
-  background-color: #C40B07;
-  border-color: #C40B07;
+    color: $white;
+    background-color: #C40B07;
+    border-color: #C40B07;
 }
 
 .btn-danger:hover {
-  color: #ffffff;
-  background-color: #DF3C38;
-  border-color: #DF3C38;
+    color: $white;
+    background-color: #DF3C38;
+    border-color: #DF3C38;
 }
 
 .btn-warning {
-  color: #ffffff;
-  background-color: #DB7A13;
-  border-color: #DB7A13;
+    color: $white;
+    background-color: #DB7A13;
+    border-color: #DB7A13;
 }
 
 .btn-warning:hover {
-  color: #ffffff;
-  background-color: #E1923D;
-  border-color: #E1923D;
+    color: $white;
+    background-color: #E1923D;
+    border-color: #E1923D;
 }
 
 .btn-info {
-  color: #ffffff;
-  background-color: #106680;
-  border-color: #106680;
+    color: $white;
+    background-color: #106680;
+    border-color: #106680;
 }
 
 .btn-info:hover {
-  color: #ffffff;
-  background-color: #2384A2;
-  border-color: #2384A2;
+    color: $white;
+    background-color: #2384A2;
+    border-color: #2384A2;
 }
 
+
+
+
 .btn-outline-primary {
-  background-color: #ffffff;
+  background-color: $white;
   border-color: #429DB5;
   color: #429DB5;
 }
 
 .btn-outline-primary:hover {
-  color: #ffffff;
-  background-color: #429DB5;
-  border-color: #429DB5;
+   color: $white;
+   background-color: #429DB5;
+   border-color: #429DB5;
 }
 
-.btn-outline-primary.active,
-.btn-outline-primary:active,
-.show > .btn-outline-primary.dropdown-toggle {
-  color: #fff;
-  background-color: #429DB5;
-  border-color: #429DB5;
-  opacity: .8;
+.btn-outline-primary.active, 
+.btn-outline-primary:active, 
+.show>.btn-outline-primary.dropdown-toggle {
+   color: #fff;
+   background-color: #429DB5;
+   border-color: #429DB5;
+   opacity: .8;
 }
+
 
 .btn-outline-secondary {
   background-color: transparent;
@@ -10755,10 +10733,11 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .btn-outline-secondary:hover {
-  background-color: #ccc;
-  border-color: #ccc;
-  color: #ffffff;
+   background-color: #ccc;
+   border-color: #ccc;
+   color: $white;
 }
+
 
 .btn-outline-success {
   background-color: transparent;
@@ -10767,10 +10746,11 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .btn-outline-success:hover {
-  background-color: #A6D7AC;
-  border-color: #A6D7AC;
-  color: #ffffff;
+   background-color: #A6D7AC;
+   border-color: #A6D7AC;
+   color:$white;
 }
+
 
 .btn-outline-danger {
   background-color: transparent;
@@ -10779,55 +10759,45 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .btn-outline-danger:hover {
-  background-color: #C40B07;
-  border-color: #C40B07;
-  color: #ffffff;
+   background-color: #C40B07;
+   border-color: #C40B07;
+   color:$white;
 }
 
-.btn-outline-warning {
+
+.btn-outline-warning{
   background-color: transparent;
   border-color: #DB7A13;
   color: #DB7A13;
 }
 
 .btn-outline-warning:hover {
-  background-color: #DB7A13;
-  border-color: #DB7A13;
-  color: #ffffff;
+   background-color: #DB7A13;
+   border-color:#DB7A13;
+   color:$white;
 }
 
-.btn-outline-info {
+
+.btn-outline-info{
   background-color: transparent;
   border-color: #106680;
   color: #106680;
 }
 
 .btn-outline-info:hover {
-  background-color: #106680;
-  border-color: #106680;
-  color: #ffffff;
+   background-color: #106680;
+   border-color:#106680;
+   color:$white;
 }
 
 .btn-outline-light:hover {
-  color: #ffffff;
+  color: $white;
   background-color: #ccc;
 }
 
-.searchbutton {
-  z-index: 33333;
-  display: inline;
-  width: 1%;
-  padding: 0.3em;
-}
-
-.searchbutton:hover {
-  background-color: #106680;
-  border: #106680;
-  width: 16%;
-}
-
+*/
 .card-primary {
-  background-color: #429DB5;
+  background-color: #F39019;
 }
 
 .card-success {
@@ -10908,7 +10878,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-title:hover {
-  color: #429DB5;
+  color: #F39019;
 }
 
 .card-block {
@@ -10916,7 +10886,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-primary {
-  background-color: #429DB5;
+  background-color: #F39019;
 }
 
 .card .card-text {
@@ -11069,7 +11039,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .icon-well-blue {
-  fill: #419CB4;
+  fill: #F39019;
 }
 
 .icon-xl {
@@ -11095,170 +11065,6 @@ $input-color-placeholder: #999 !default;*/
 .icon-xs {
   width: 15px;
   height: 15px;
-}
-
-/*red*/
-/*Air*/
-/*Water*/
-/*Nourishment*/
-/*Light*/
-/*Fitness*/
-/*Comfort*/
-/*Sound*/
-/*Materials*/
-/*Mind*/
-/*Community*/
-/* Dark Greys */
-.lightestcloud {
-  background-color: #F6F7F9;
-}
-
-.lightcloud {
-  background-color: #f2f3f3;
-}
-
-.cloudygrey {
-  background-color: #E5E6E7;
-}
-
-.darkcloud {
-  background-color: #cacdcf;
-}
-
-.darkestcloud {
-  background-color: #b0b3b6;
-}
-
-/* WELL Blue */
-.lightestwellblue {
-  background-color: #89c4d4;
-}
-
-.lightwellblue {
-  background-color: #64b2c6;
-}
-
-.wellblue {
-  background-color: #429DB5;
-}
-
-.darkwellblue {
-  background-color: #347d90;
-}
-
-.darkestwellblue {
-  background-color: #275c6a;
-}
-
-/* Light Grey */
-.lightsmoke {
-  background-color: #959595;
-}
-
-.smoke {
-  background-color: #7c7c7c;
-}
-
-.charcoal {
-  background-color: #626262;
-}
-
-.burntcharcoal {
-  background-color: #494949;
-}
-
-.darkcharcoal {
-  background-color: #2f2f2f;
-}
-
-/* Seven concept WELL colors*/
-.well-air-bg {
-  background-color: #144249;
-}
-
-.well-water-bg {
-  background-color: #0B667F;
-}
-
-.well-nourishment-bg {
-  background-color: #0A7B98;
-}
-
-.well-light-bg {
-  background-color: #3C9EB7;
-}
-
-.well-fitness-bg {
-  background-color: #92CCD4;
-}
-
-.well-comfort-bg {
-  background-color: #A8D6AD;
-}
-
-.well-sound-bg {
-  background-color: #63AA85;
-}
-
-.well-materials-bg {
-  background-color: #41937D;
-}
-
-.well-mind-bg {
-  background-color: #306B5E;
-}
-
-.well-community-bg {
-  background-color: #23483E;
-}
-
-/* Placeholder text color
-$input-color-placeholder: #999 !default;*/
-.well--air {
-  color: #144249;
-}
-
-.well--water {
-  color: #0B667F;
-}
-
-.well--nourishment {
-  color: #0A7B98;
-}
-
-.well--light {
-  color: #3C9EB7;
-}
-
-.well--fitness {
-  color: #92CCD4;
-}
-
-.well--comfort {
-  color: #A8D6AD;
-}
-
-.well--sound {
-  color: #63AA85;
-}
-
-.well--mind {
-  color: #306B5E;
-}
-
-.well--community {
-  color: #23483E;
-}
-
-.well--black {
-  color: #000000;
-}
-
-.list-group-item.active {
-  z-index: 2;
-  color: #fff;
-  background-color: #429DB5;
-  border-color: #429DB5;
 }
 
 /* Lists */
@@ -11289,8 +11095,10 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .list-group-item.active {
-  background-color: #49A1B8;
-  border-color: #49A1B8;
+  z-index: 2;
+  color: #fff;
+  background-color: #F39019;
+  border-color: #F39019;
 }
 
 /* A-Spot */

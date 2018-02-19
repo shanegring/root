@@ -1,5 +1,5 @@
 .card-primary {
-    background-color: $well-blue;
+    background-color: $primary;
 }
 
 .card-success {
@@ -76,7 +76,7 @@ border-radius: 0rem;
 }
 
 .card-title:hover {
-  color:  #429DB5;
+  color:  $primary;
 }
 
 
@@ -85,7 +85,7 @@ border-radius: 0rem;
 }
 
 .card-primary {
-  background-color: #429DB5;
+  background-color: $primary;
 }
 
 .card .card-text {
