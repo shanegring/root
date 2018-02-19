@@ -10486,12 +10486,28 @@ a.badge:focus, a.badge:hover {
   border-radius: 10rem;
 }
 
+.badge-default {
+  background-color: #6f6f6f;
+}
+
+.badge-default[href]:focus, .badge-default[href]:hover {
+  background-color: #626262;
+}
+
 .badge-primary {
   background-color: #F5820F;
 }
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
   background-color: #e17509;
+}
+
+.badge-secondary {
+  background-color: #d8d9db;
+}
+
+.badge-secondary[href]:focus, .badge-secondary[href]:hover {
+  background-color: #cacdcf;
 }
 
 .badge-success {
@@ -10511,11 +10527,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-warning {
-  background-color: #f0ad4e;
+  background-color: #EDA509;
 }
 
 .badge-warning[href]:focus, .badge-warning[href]:hover {
-  background-color: #ec971f;
+  background-color: #d49408;
 }
 
 .badge-danger {
@@ -10523,7 +10539,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
-  background-color: #930805;
+  background-color: #ab0a06;
 }
 
 /*red*/

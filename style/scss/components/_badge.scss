@@ -42,11 +42,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-default {
-  background-color: $primary;
+  background-color: lighten($dark-grey,5);
 }
 
-.badge-primary[href]:focus, .badge-primary[href]:hover {
-  background-color: darken($primary,5);
+.badge-default[href]:focus, .badge-default[href]:hover {
+  background-color: $dark-grey;
 }
 
 .badge-primary {
@@ -55,6 +55,14 @@ a.badge:focus, a.badge:hover {
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
   background-color: darken($primary,5);
+}
+
+.badge-secondary {
+  background-color: darken($light-grey,5);
+}
+
+.badge-secondary[href]:focus, .badge-secondary[href]:hover {
+  background-color: darken($light-grey,10);
 }
 
 .badge-success {
@@ -78,7 +86,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-warning[href]:focus, .badge-warning[href]:hover {
-  background-color: #$warn-orange;
+  background-color: darken($warn-orange,5);
 }
 
 .badge-danger {
@@ -86,7 +94,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
-  background-color: $red;
+  background-color: darken($red,5);
 }
 
 
