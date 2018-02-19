@@ -1,14 +1,4 @@
 /*red*/
-/*Air*/
-/*Water*/
-/*Nourishment*/
-/*Light*/
-/*Fitness*/
-/*Comfort*/
-/*Sound*/
-/*Materials*/
-/*Mind*/
-/*Community*/
 /* Light Greys */
 @import url("https://use.typekit.net/zcy3uha.css");
 .lightestcloud {
@@ -54,64 +44,23 @@
 
 /* WELL Blue */
 .lightestwellblue {
-  background-color: #f8bf7a;
+  background-color: #f9b571;
 }
 
 .lightwellblue {
-  background-color: #f6a749;
+  background-color: #f79c40;
 }
 
 .wellblue {
-  background-color: #F39019;
+  background-color: #F5820F;
 }
 
 .darkwellblue {
-  background-color: #ce750b;
+  background-color: #c96908;
 }
 
 .darkestwellblue {
-  background-color: #9e5a08;
-}
-
-/* Seven concept WELL colors*/
-.well-air-bg {
-  background-color: #144249;
-}
-
-.well-water-bg {
-  background-color: #0B667F;
-}
-
-.well-nourishment-bg {
-  background-color: #0A7B98;
-}
-
-.well-light-bg {
-  background-color: #3C9EB7;
-}
-
-.well-fitness-bg {
-  background-color: #92CCD4;
-}
-
-.well-comfort-bg {
-  background-color: #A8D6AD;
-}
-
-.well-sound-bg {
-  background-color: #63AA85;
-}
-
-.well-materials-bg {
-  background-color: #41937D;
-}
-
-.well-mind-bg {
-  background-color: #306B5E;
-}
-
-.well-community-bg {
-  background-color: #23483E;
+  background-color: #984f06;
 }
 
 /* Placeholder text color
@@ -9374,16 +9323,6 @@ select.selectpicker {
 }
 
 /*red*/
-/*Air*/
-/*Water*/
-/*Nourishment*/
-/*Light*/
-/*Fitness*/
-/*Comfort*/
-/*Sound*/
-/*Materials*/
-/*Mind*/
-/*Community*/
 /* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
@@ -9428,64 +9367,23 @@ select.selectpicker {
 
 /* WELL Blue */
 .lightestwellblue {
-  background-color: #f8bf7a;
+  background-color: #f9b571;
 }
 
 .lightwellblue {
-  background-color: #f6a749;
+  background-color: #f79c40;
 }
 
 .wellblue {
-  background-color: #F39019;
+  background-color: #F5820F;
 }
 
 .darkwellblue {
-  background-color: #ce750b;
+  background-color: #c96908;
 }
 
 .darkestwellblue {
-  background-color: #9e5a08;
-}
-
-/* Seven concept WELL colors*/
-.well-air-bg {
-  background-color: #144249;
-}
-
-.well-water-bg {
-  background-color: #0B667F;
-}
-
-.well-nourishment-bg {
-  background-color: #0A7B98;
-}
-
-.well-light-bg {
-  background-color: #3C9EB7;
-}
-
-.well-fitness-bg {
-  background-color: #92CCD4;
-}
-
-.well-comfort-bg {
-  background-color: #A8D6AD;
-}
-
-.well-sound-bg {
-  background-color: #63AA85;
-}
-
-.well-materials-bg {
-  background-color: #41937D;
-}
-
-.well-mind-bg {
-  background-color: #306B5E;
-}
-
-.well-community-bg {
-  background-color: #23483E;
+  background-color: #984f06;
 }
 
 /* Placeholder text color
@@ -10231,16 +10129,6 @@ table {
 }
 
 /*red*/
-/*Air*/
-/*Water*/
-/*Nourishment*/
-/*Light*/
-/*Fitness*/
-/*Comfort*/
-/*Sound*/
-/*Materials*/
-/*Mind*/
-/*Community*/
 /* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
@@ -10285,64 +10173,23 @@ table {
 
 /* WELL Blue */
 .lightestwellblue {
-  background-color: #f8bf7a;
+  background-color: #f9b571;
 }
 
 .lightwellblue {
-  background-color: #f6a749;
+  background-color: #f79c40;
 }
 
 .wellblue {
-  background-color: #F39019;
+  background-color: #F5820F;
 }
 
 .darkwellblue {
-  background-color: #ce750b;
+  background-color: #c96908;
 }
 
 .darkestwellblue {
-  background-color: #9e5a08;
-}
-
-/* Seven concept WELL colors*/
-.well-air-bg {
-  background-color: #144249;
-}
-
-.well-water-bg {
-  background-color: #0B667F;
-}
-
-.well-nourishment-bg {
-  background-color: #0A7B98;
-}
-
-.well-light-bg {
-  background-color: #3C9EB7;
-}
-
-.well-fitness-bg {
-  background-color: #92CCD4;
-}
-
-.well-comfort-bg {
-  background-color: #A8D6AD;
-}
-
-.well-sound-bg {
-  background-color: #63AA85;
-}
-
-.well-materials-bg {
-  background-color: #41937D;
-}
-
-.well-mind-bg {
-  background-color: #306B5E;
-}
-
-.well-community-bg {
-  background-color: #23483E;
+  background-color: #984f06;
 }
 
 /* Placeholder text color
@@ -10356,7 +10203,7 @@ nav {
 }
 
 .nav-link.active {
-  color: #F39019;
+  color: #F5820F;
 }
 
 /*nav menu button*/
@@ -10481,6 +10328,125 @@ input:focus, textarea:focus {
   border-radius: 0rem;
 }
 
+.alert {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.alert-heading {
+  color: inherit;
+}
+
+.alert-link {
+  font-weight: bold;
+}
+
+.alert-dismissible .close {
+  position: relative;
+  top: -0.75rem;
+  right: -1.25rem;
+  padding: 0.75rem 1.25rem;
+  color: inherit;
+}
+
+.alert-primary {
+  background-color: #92CFF0;
+  border-color: #6AB7E1;
+  color: #494949;
+}
+
+.alert-primary .alert-link {
+  color: #2F2F2F;
+}
+
+.alert-secondary {
+  background-color: #E5E6E7;
+  border-color: #CACDCF;
+  color: #ff0000;
+}
+
+.alert-secondary .alert-link {
+  color: #2F2F2F;
+}
+
+.alert-success {
+  background-color: #dff0d8;
+  border-color: #d0e9c6;
+  color: #3c763d;
+}
+
+.alert-success hr {
+  border-top-color: #c1e2b3;
+}
+
+.alert-success .alert-link {
+  color: #2b542c;
+}
+
+.alert-info {
+  background-color: #d9edf7;
+  border-color: #bcdff1;
+  color: #31708f;
+}
+
+.alert-info hr {
+  border-top-color: #a6d5ec;
+}
+
+.alert-info .alert-link {
+  color: #245269;
+}
+
+.alert-warning {
+  background-color: #fcf8e3;
+  border-color: #faf2cc;
+  color: #8a6d3b;
+}
+
+.alert-warning hr {
+  border-top-color: #f7ecb5;
+}
+
+.alert-warning .alert-link {
+  color: #66512c;
+}
+
+.alert-danger {
+  background-color: #f2dede;
+  border-color: #ebcccc;
+  color: #a94442;
+}
+
+.alert-danger hr {
+  border-top-color: #e4b9b9;
+}
+
+.alert-danger .alert-link {
+  color: #843534;
+}
+
+.alert-dark {
+  background-color: #92CFF0;
+  border-color: #6AB7E1;
+  color: #494949;
+}
+
+.alert-dark .alert-link {
+  color: #2F2F2F;
+}
+
+.alert-light {
+  background-color: #F6F7F9;
+  border-color: #CACDCF;
+  color: #ff0000;
+}
+
+.alert-light .alert-link {
+  color: #2F2F2F;
+}
+
 /* Badge */
 .badge {
   border-radius: 0;
@@ -10499,17 +10465,68 @@ input:focus, textarea:focus {
   background-color: #636c72;
 }
 
+.badge:empty {
+  display: none;
+}
+
+.btn .badge {
+  position: relative;
+  top: -1px;
+}
+
+a.badge:focus, a.badge:hover {
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.badge-pill {
+  padding-right: 0.8em;
+  padding-left: 0.8em;
+  border-radius: 10rem;
+}
+
+.badge-primary {
+  background-color: #F5820F;
+}
+
+.badge-primary[href]:focus, .badge-primary[href]:hover {
+  background-color: #e17509;
+}
+
+.badge-success {
+  background-color: #5CB85C;
+}
+
+.badge-success[href]:focus, .badge-success[href]:hover {
+  background-color: #4cae4c;
+}
+
+.badge-info {
+  background-color: #00B5A9;
+}
+
+.badge-info[href]:focus, .badge-info[href]:hover {
+  background-color: #009c91;
+}
+
+.badge-warning {
+  background-color: #f0ad4e;
+}
+
+.badge-warning[href]:focus, .badge-warning[href]:hover {
+  background-color: #ec971f;
+}
+
+.badge-danger {
+  background-color: #C40B07;
+}
+
+.badge-danger[href]:focus, .badge-danger[href]:hover {
+  background-color: #930805;
+}
+
 /*red*/
-/*Air*/
-/*Water*/
-/*Nourishment*/
-/*Light*/
-/*Fitness*/
-/*Comfort*/
-/*Sound*/
-/*Materials*/
-/*Mind*/
-/*Community*/
 /* Light Greys */
 .lightestcloud {
   background-color: #F6F7F9;
@@ -10554,64 +10571,23 @@ input:focus, textarea:focus {
 
 /* WELL Blue */
 .lightestwellblue {
-  background-color: #f8bf7a;
+  background-color: #f9b571;
 }
 
 .lightwellblue {
-  background-color: #f6a749;
+  background-color: #f79c40;
 }
 
 .wellblue {
-  background-color: #F39019;
+  background-color: #F5820F;
 }
 
 .darkwellblue {
-  background-color: #ce750b;
+  background-color: #c96908;
 }
 
 .darkestwellblue {
-  background-color: #9e5a08;
-}
-
-/* Seven concept WELL colors*/
-.well-air-bg {
-  background-color: #144249;
-}
-
-.well-water-bg {
-  background-color: #0B667F;
-}
-
-.well-nourishment-bg {
-  background-color: #0A7B98;
-}
-
-.well-light-bg {
-  background-color: #3C9EB7;
-}
-
-.well-fitness-bg {
-  background-color: #92CCD4;
-}
-
-.well-comfort-bg {
-  background-color: #A8D6AD;
-}
-
-.well-sound-bg {
-  background-color: #63AA85;
-}
-
-.well-materials-bg {
-  background-color: #41937D;
-}
-
-.well-mind-bg {
-  background-color: #306B5E;
-}
-
-.well-community-bg {
-  background-color: #23483E;
+  background-color: #984f06;
 }
 
 /* Placeholder text color
@@ -10630,127 +10606,155 @@ $input-color-placeholder: #999 !default;*/
           box-shadow: 0 0 0 2px rgba(73, 161, 184, 0.25);
 }
 
-/*
 .btn-primary {
-  background-color: $primary;
-  border-color: $primary;
+  color: #ffffff;
+  background-color: #F5820F;
+  border-color: #F5820F;
 }
 
 .btn-primary:hover {
-   color: $primary;
-   background-color: $white;
-   border-color: $primary;
-   opacity: .8;
+  color: #ffffff;
+  background-color: #e17509;
+  border-color: #e17509;
 }
 
-.btn-primary.active, 
-.btn-primary:active, 
-.show>.btn-primary.dropdown-toggle {
-    color: $white;
-    background-color: $primary;
-    background-image: none;
-    border-color: $primary;
+.btn-primary.active,
+.btn-primary:active,
+.show > .btn-primary.dropdown-toggle {
+  color: #ffffff;
+  background-color: #F5820F;
+  background-image: none;
+  border-color: #F5820F;
 }
 
 .btn-success {
-    color: $white;
-    background-color: #A6D7AC;
-    border-color: #A6D7AC;
+  color: #ffffff;
+  background-color: #5CB85C;
+  border-color: #5CB85C;
 }
 
 .btn-success:hover {
-    color: $white;
-    background-color: #8BC392;
-    border-color: #8BC392;
+  color: #ffffff;
+  background-color: #4cae4c;
+  border-color: #4cae4c;
 }
 
-
 .btn-danger {
-    color: $white;
-    background-color: #C40B07;
-    border-color: #C40B07;
+  color: #ffffff;
+  background-color: #C40B07;
+  border-color: #C40B07;
 }
 
 .btn-danger:hover {
-    color: $white;
-    background-color: #DF3C38;
-    border-color: #DF3C38;
+  color: #ffffff;
+  background-color: #ab0a06;
+  border-color: #ab0a06;
 }
 
 .btn-warning {
-    color: $white;
-    background-color: #DB7A13;
-    border-color: #DB7A13;
+  color: #ffffff;
+  background-color: #EDA509;
+  border-color: #EDA509;
 }
 
 .btn-warning:hover {
-    color: $white;
-    background-color: #E1923D;
-    border-color: #E1923D;
+  color: #ffffff;
+  background-color: #d49408;
+  border-color: #d49408;
 }
 
 .btn-info {
-    color: $white;
-    background-color: #106680;
-    border-color: #106680;
+  color: #ffffff;
+  background-color: #00B5A9;
+  border-color: #00B5A9;
 }
 
 .btn-info:hover {
-    color: $white;
-    background-color: #2384A2;
-    border-color: #2384A2;
+  color: #ffffff;
+  background-color: #009c91;
+  border-color: #009c91;
 }
 
+.btn-secondary {
+  color: #000000;
+  background-color: #E5E6E7;
+  border-color: #E5E6E7;
+}
 
+.btn-secondary:hover {
+  color: #000000;
+  background-color: #cacdcf;
+  border-color: #cacdcf;
+}
 
+.btn-light {
+  color: #000000;
+  background-color: #f2f3f3;
+  border-color: #f2f3f3;
+}
+
+.btn-light:hover {
+  color: #000000;
+  background-color: #E5E6E7;
+  border-color: #E5E6E7;
+}
+
+.btn-dark {
+  color: #ffffff;
+  background-color: #494949;
+  border-color: #494949;
+}
+
+.btn-dark:hover {
+  color: #ffffff;
+  background-color: #2f2f2f;
+  border-color: #2f2f2f;
+}
 
 .btn-outline-primary {
-  background-color: $white;
-  border-color: #429DB5;
-  color: #429DB5;
+  background-color: #ffffff;
+  border-color: #F5820F;
+  color: #F5820F;
 }
 
 .btn-outline-primary:hover {
-   color: $white;
-   background-color: #429DB5;
-   border-color: #429DB5;
+  color: #ffffff;
+  background-color: #F5820F;
+  border-color: #F5820F;
 }
 
-.btn-outline-primary.active, 
-.btn-outline-primary:active, 
-.show>.btn-outline-primary.dropdown-toggle {
-   color: #fff;
-   background-color: #429DB5;
-   border-color: #429DB5;
-   opacity: .8;
+.btn-outline-primary.active,
+.btn-outline-primary:active,
+.show > .btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #f68f27;
+  border-color: #f68f27;
+  opacity: .8;
 }
-
 
 .btn-outline-secondary {
   background-color: transparent;
-  border-color: #ccc;
-  color: #ccc;
+  border-color: darken #E5E6E7, 20;
+  color: black;
 }
 
 .btn-outline-secondary:hover {
-   background-color: #ccc;
-   border-color: #ccc;
-   color: $white;
+  background-color: #E5E6E7;
+  border-color: #E5E6E7;
+  color: #000000;
 }
-
 
 .btn-outline-success {
   background-color: transparent;
-  border-color: #A6D7AC;
-  color: #A6D7AC;
+  border-color: #5CB85C;
+  color: #5CB85C;
 }
 
 .btn-outline-success:hover {
-   background-color: #A6D7AC;
-   border-color: #A6D7AC;
-   color:$white;
+  background-color: #5CB85C;
+  border-color: #5CB85C;
+  color: #ffffff;
 }
-
 
 .btn-outline-danger {
   background-color: transparent;
@@ -10759,43 +10763,59 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .btn-outline-danger:hover {
-   background-color: #C40B07;
-   border-color: #C40B07;
-   color:$white;
+  background-color: #C40B07;
+  border-color: #C40B07;
+  color: #ffffff;
 }
 
-
-.btn-outline-warning{
+.btn-outline-warning {
   background-color: transparent;
-  border-color: #DB7A13;
-  color: #DB7A13;
+  border-color: #EDA509;
+  color: #EDA509;
 }
 
 .btn-outline-warning:hover {
-   background-color: #DB7A13;
-   border-color:#DB7A13;
-   color:$white;
+  background-color: #EDA509;
+  border-color: #EDA509;
+  color: #ffffff;
 }
 
-
-.btn-outline-info{
+.btn-outline-info {
   background-color: transparent;
-  border-color: #106680;
-  color: #106680;
+  border-color: #00B5A9;
+  color: #00B5A9;
 }
 
 .btn-outline-info:hover {
-   background-color: #106680;
-   border-color:#106680;
-   color:$white;
+  background-color: #00B5A9;
+  border-color: #00B5A9;
+  color: #ffffff;
+}
+
+.btn-outline-light {
+  color: #000000;
+  background-color: transparent;
+  border-color: #E5E6E7;
 }
 
 .btn-outline-light:hover {
-  color: $white;
-  background-color: #ccc;
+  color: #000000;
+  background-color: #cacdcf;
+  border-color: #cacdcf;
 }
 
-*/
+.btn-outline-dark {
+  color: #626262;
+  background-color: transparent;
+  border-color: #626262;
+}
+
+.btn-outline-dark:hover {
+  color: #ffffff;
+  background-color: #626262;
+  border-color: #626262;
+}
+
 /*
 .card-primary {
     background-color: $primary;
@@ -10876,7 +10896,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-title:hover {
-  color: #F39019;
+  color: #F5820F;
 }
 
 .card-block {
@@ -10884,7 +10904,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-primary {
-  background-color: #F39019;
+  background-color: #F5820F;
 }
 
 .card .card-text {
@@ -10985,8 +11005,8 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .lightgreenwhitegrad {
-  background: -webkit-gradient(linear, right top, left top, from(#a7d6ad), to(white));
-  background: linear-gradient(to left, #a7d6ad, white);
+  background: -webkit-gradient(linear, left top, left bottom, from(#a7d6ad), to(white));
+  background: linear-gradient(#a7d6ad, white);
 }
 
 .dropdown-item.active, .dropdown-item:active {
@@ -11033,7 +11053,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .icon-well-blue {
-  fill: #F39019;
+  fill: #F5820F;
 }
 
 .icon-xl {
@@ -11091,8 +11111,8 @@ $input-color-placeholder: #999 !default;*/
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #F39019;
-  border-color: #F39019;
+  background-color: #F5820F;
+  border-color: #F5820F;
 }
 
 /* A-Spot */
