@@ -27,7 +27,7 @@
     "type": "git"
   },
   "engines": {
-  "node": ">=4.2.4"
+    "node": ">=4.2.4"
   },
   "keywords": [
     "algolia",
