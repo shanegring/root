@@ -10195,7 +10195,7 @@ table {
 /* Placeholder text color
 $input-color-placeholder: #999 !default;*/
 nav {
-  background: #38138E;
+  background: transparent;
   text-align: center;
   text-transform: uppercase;
   font-size: 1.1em;
@@ -10352,37 +10352,33 @@ input:focus, textarea:focus {
 }
 
 .alert-primary {
-  background-color: #92CFF0;
-  border-color: #6AB7E1;
-  color: #494949;
+  background-color: #fde8d3;
+  border-color: #f9b571;
+  color: #7f4205;
 }
 
 .alert-primary .alert-link {
-  color: #2F2F2F;
+  color: #4e2903;
 }
 
 .alert-secondary {
-  background-color: #E5E6E7;
-  border-color: #CACDCF;
-  color: #ff0000;
+  background-color: #f2f3f3;
+  border-color: #cacdcf;
+  color: #494949;
 }
 
 .alert-secondary .alert-link {
-  color: #2F2F2F;
+  color: #2f2f2f;
 }
 
 .alert-success {
-  background-color: #dff0d8;
-  border-color: #d0e9c6;
-  color: #3c763d;
-}
-
-.alert-success hr {
-  border-top-color: #c1e2b3;
+  background-color: #d8eed8;
+  border-color: #a3d7a3;
+  color: #2d672d;
 }
 
 .alert-success .alert-link {
-  color: #2b542c;
+  color: #1e441e;
 }
 
 .alert-info {
@@ -10400,8 +10396,8 @@ input:focus, textarea:focus {
 }
 
 .alert-warning {
-  background-color: #fcf8e3;
-  border-color: #faf2cc;
+  background-color: #EDA509;
+  border-color: #EDA509;
   color: #8a6d3b;
 }
 
@@ -10440,7 +10436,7 @@ input:focus, textarea:focus {
 .alert-light {
   background-color: #F6F7F9;
   border-color: #CACDCF;
-  color: #ff0000;
+  color: #666666;
 }
 
 .alert-light .alert-link {
