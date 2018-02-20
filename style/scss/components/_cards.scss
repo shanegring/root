@@ -75,7 +75,7 @@ border-radius: 0rem;
 }
 
 .card-title{
-  color: #636c72;
+  color: darken($dark-grey,5);
 }
 
 .card-title:hover {
@@ -96,7 +96,7 @@ border-radius: 0rem;
 }
 
 .card-header {
-  background-color: #E8ECEF;
+  background-color: $lightest-cloud;
   border-top: 1px solid rgba(0,0,0,.125);
   border-bottom: 0px solid rgba(0,0,0,.125);
 }
@@ -106,7 +106,7 @@ border-radius: 0rem;
 }
 
 .card-link {
-  color: #429DB5;
+  color: $primary;
 }
 
 

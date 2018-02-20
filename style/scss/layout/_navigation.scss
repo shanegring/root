@@ -110,9 +110,9 @@ nav {
 
 .page-item.active .page-link {
   z-index: 2;
-  color: #ffffff;
-  background-color: #6AB7E1;
-  border-color: #6AB7E1;
+  color: $white;
+  background-color: $primary;
+  border-color: $primary;
 }
 
 .page-item.disabled .page-link {
@@ -135,10 +135,10 @@ nav {
 }
 
 .page-link:focus, .page-link:hover {
-  color: #2b98d4;
+  color: $white;
   text-decoration: none;
-  background-color: #eceeef;
-  border-color: #ddd;
+  background-color: $primary;
+  border-color: $light-grey;
 }
 
 .pagination-lg .page-link {

@@ -10290,8 +10290,8 @@ nav {
 .page-item.active .page-link {
   z-index: 2;
   color: #ffffff;
-  background-color: #6AB7E1;
-  border-color: #6AB7E1;
+  background-color: #F5820F;
+  border-color: #F5820F;
 }
 
 .page-item.disabled .page-link {
@@ -10314,10 +10314,10 @@ nav {
 }
 
 .page-link:focus, .page-link:hover {
-  color: #2b98d4;
+  color: #ffffff;
   text-decoration: none;
-  background-color: #eceeef;
-  border-color: #ddd;
+  background-color: #F5820F;
+  border-color: #E5E6E7;
 }
 
 .pagination-lg .page-link {
@@ -10985,7 +10985,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-title {
-  color: #636c72;
+  color: #555555;
 }
 
 .card-title:hover {
@@ -11005,7 +11005,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-header {
-  background-color: #E8ECEF;
+  background-color: #F6F7F9;
   border-top: 1px solid rgba(0, 0, 0, 0.125);
   border-bottom: 0px solid rgba(0, 0, 0, 0.125);
 }
@@ -11015,7 +11015,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .card-link {
-  color: #429DB5;
+  color: #F5820F;
 }
 
 .card-primary, .card-success, .card-info, .card-warning, .card-danger {
