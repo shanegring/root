@@ -10822,7 +10822,7 @@ $input-color-placeholder: #999 !default;*/
   color: #fff;
   background-color: #f68f27;
   border-color: #f68f27;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .btn-outline-secondary {
