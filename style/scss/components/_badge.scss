@@ -58,7 +58,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-secondary {
-  background-color: darken($light-grey,5);
+  background-color: darken($light-grey,10);
 }
 
 .badge-secondary[href]:focus, .badge-secondary[href]:hover {

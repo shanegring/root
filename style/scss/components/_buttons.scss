@@ -49,8 +49,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-success:hover {
     color: $white;
-    background-color: darken($success-green,5);
-    border-color: darken($success-green,5);
+    background-color: darken($success-green,8);
+    border-color: darken($success-green,8);
 }
 
 
@@ -62,8 +62,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-danger:hover {
     color: $white;
-    background-color: darken($red,5);
-    border-color: darken($red,5);
+    background-color: darken($red,8);
+    border-color: darken($red,8);
 }
 
 .btn-warning {
@@ -74,8 +74,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-warning:hover {
     color: $white;
-    background-color: darken($warn-orange,5);
-    border-color: darken($warn-orange,5);
+    background-color: darken($warn-orange,8);
+    border-color: darken($warn-orange,8);
 }
 
 .btn-info {
@@ -86,8 +86,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-info:hover {
     color: $white;
-    background-color: darken($info-blue,5);
-    border-color: darken($info-blue,5);
+    background-color: darken($info-blue,8);
+    border-color: darken($info-blue,8);
 }
 
 
@@ -99,8 +99,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-secondary:hover {
    color:$black;
-   background-color: darken($light-grey,10);
-   border-color: darken($light-grey,10);
+   background-color: darken($light-grey,8);
+   border-color: darken($light-grey,8);
 }
 
 
@@ -118,8 +118,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-dark {
   color: $white;
-  background-color:  darken($dark-grey,10);
-  border-color: darken($dark-grey,10); 
+  background-color:  darken($dark-grey,8);
+  border-color: darken($dark-grey,8); 
 }
 
 .btn-dark:hover {
@@ -232,8 +232,8 @@ box-shadow: 0 0 0 2px rgba(73,161,184,.25)
 
 .btn-outline-light:hover {
   color: $black;
-  background-color:darken($light-grey,10);  
-  border-color: darken($light-grey,10);  
+  background-color:darken($light-grey,8);  
+  border-color: darken($light-grey,8);  
 }
 
 
