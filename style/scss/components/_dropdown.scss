@@ -27,35 +27,43 @@
 .btn-warning:active, .btn-warning.active,
 .show > .btn-warning.dropdown-toggle {
   color: $white;
-  background-color: darken($light-grey, 5);
+  background-color: darken($warn-orange, 5);
   background-image: none;
-  border-color: $white;
+  border-color: darken($warn-orange, 5);
 }
 
 .btn-outline-primary:active, .btn-outline-primary.active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: $white;
-  background-color: #6AB7E1;
-  border-color: #6AB7E1;
+  background-color: $primary;
+  border-color: $primary;
 }
 
 .btn-outline-secondary:active, .btn-outline-secondary.active,
 .show > .btn-outline-secondary.dropdown-toggle {
   color: $white;
-  background-color: darken($light-grey, 10);
-  border-color: darken($light-grey, 10);
+  background-color:darken($light-grey, 5);
+  border-color: darken($light-grey, 5);
 }
 
 .btn-outline-info:active, .btn-outline-info.active,
 .show > .btn-outline-info.dropdown-toggle {
   color: $white;
-  background-color: darken($dark-grey, 5);
-  border-color: darken($dark-grey, 5);
+  background-color: darken($info-blue, 5);
+  border-color: darken($info-blue, 5);
 }
 
 .btn-outline-success:active, .btn-outline-success.active,
 .show > .btn-outline-success.dropdown-toggle {
   color: $white;
-  background-color: darken($dark-grey, 5);
-  border-color: darken($dark-grey, 5);
+  background-color: darken($success-green, 5);
+  border-color: darken($success-green, 5);
+}
+
+
+.bootstrap-select > .dropdown-toggle.bs-placeholder,  
+.bootstrap-select > .dropdown-toggle.bs-placeholder:hover, 
+.bootstrap-select > .dropdown-toggle.bs-placeholder:focus, 
+.bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+    color: $white;
 }

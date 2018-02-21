@@ -11163,37 +11163,44 @@ $input-color-placeholder: #999 !default;*/
 .btn-warning:active, .btn-warning.active,
 .show > .btn-warning.dropdown-toggle {
   color: #ffffff;
-  background-color: #d8d9db;
+  background-color: #d49408;
   background-image: none;
-  border-color: #ffffff;
+  border-color: #d49408;
 }
 
 .btn-outline-primary:active, .btn-outline-primary.active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #ffffff;
-  background-color: #6AB7E1;
-  border-color: #6AB7E1;
+  background-color: #F5820F;
+  border-color: #F5820F;
 }
 
 .btn-outline-secondary:active, .btn-outline-secondary.active,
 .show > .btn-outline-secondary.dropdown-toggle {
   color: #ffffff;
-  background-color: #cacdcf;
-  border-color: #cacdcf;
+  background-color: #d8d9db;
+  border-color: #d8d9db;
 }
 
 .btn-outline-info:active, .btn-outline-info.active,
 .show > .btn-outline-info.dropdown-toggle {
   color: #ffffff;
-  background-color: #555555;
-  border-color: #555555;
+  background-color: #229b93;
+  border-color: #229b93;
 }
 
 .btn-outline-success:active, .btn-outline-success.active,
 .show > .btn-outline-success.dropdown-toggle {
   color: #ffffff;
-  background-color: #555555;
-  border-color: #555555;
+  background-color: #4cae4c;
+  border-color: #4cae4c;
+}
+
+.bootstrap-select > .dropdown-toggle.bs-placeholder,
+.bootstrap-select > .dropdown-toggle.bs-placeholder:hover,
+.bootstrap-select > .dropdown-toggle.bs-placeholder:focus,
+.bootstrap-select > .dropdown-toggle.bs-placeholder:active {
+  color: #ffffff;
 }
 
 .icon {
