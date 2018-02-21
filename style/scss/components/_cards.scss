@@ -1,50 +1,57 @@
-/*
+
 .card-primary {
     background-color: $primary;
 }
 
+.card-secondary {
+    background-color: $light-grey;
+}
+
 .card-success {
-    background-color: #A6D7AC;
+    background-color: $success-green;
 }
 
 .card-info {
-    background-color: #106680;
+    background-color: $info-blue;
 }
 
 .card-warning {
-    background-color: #DB7A13;
+    background-color: $warn-orange;
 }
 
 .card-danger {
-    background-color: #C40B07;
+    background-color: $red;
 }
 
 
-/* Cards 
+.card-primary, .card-success, .card-info, .card-warning, .card-danger {
+    border: none;
+}
+
 
 
 .card-outline-primary {
-  border-color: #429DB5; 
+  border-color: $primary;
 }
 
 .card-outline-secondary {
-  border-color: #ccc;   
+  border-color: $light-grey;  
 }
 
 .card-outline-success {
-  border-color: #A6D7AC; 
+  border-color: $success-green; 
 }
 
 .card-outline-info {
-  border-color:  #106680; 
+  border-color: $info-blue;
 }
 
 .card-outline-warning {
-  border-color: #DB7A13;  
+  border-color: $warn-orange; 
 }
 
 .card-outline-danger {
-  border-color: #C40B07;  
+  border-color: $red; 
 }
 
 .nav-tabs .nav-link.active{
@@ -111,6 +118,3 @@ border-radius: 0rem;
 
 
 
-.card-primary, .card-success, .card-info, .card-warning, .card-danger {
-    border: none;
-}

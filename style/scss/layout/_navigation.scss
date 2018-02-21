@@ -82,8 +82,10 @@ nav {
   border-bottom: 1px solid transparent;
 }
 
- 
-
+.nav-pills .nav-link.active, .nav-pills .nav-item.show .nav-link {
+  background-color:$primary;
+  color: white;
+ }
 
 /* Pagination */
 
