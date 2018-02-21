@@ -10402,11 +10402,15 @@ label {
 }
 
 .form-control:focus {
-  border-color: #429DB5;
+  border-color: #F5820F;
 }
 
 input:focus, textarea:focus {
-  border: 1px solid #429DB5;
+  border: 1px solid #F5820F;
+}
+
+.form-check-input {
+  margin-left: -0.2rem;
 }
 
 /* Forms */
@@ -10534,17 +10538,13 @@ input:focus, textarea:focus {
   border-radius: 0;
   padding: .5em .7em;
   font-weight: 500;
-  color: #fff;
+  color: #ffffff;
 }
 
 .badge-notification {
   border-radius: 8px;
   padding: .4em .8em;
   margin-left: .4em;
-}
-
-.badge-default {
-  background-color: #636c72;
 }
 
 .badge:empty {
@@ -10569,7 +10569,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-default {
-  background-color: #6f6f6f;
+  background-color: #7c7c7c;
 }
 
 .badge-default[href]:focus, .badge-default[href]:hover {
@@ -10585,7 +10585,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-secondary {
-  background-color: #cacdcf;
+  background-color: #d8d9db;
 }
 
 .badge-secondary[href]:focus, .badge-secondary[href]:hover {
@@ -10622,6 +10622,24 @@ a.badge:focus, a.badge:hover {
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
   background-color: #ab0a06;
+}
+
+.badge-light {
+  background-color: #f2f3f3;
+  color: #626262;
+}
+
+.badge-light[href]:focus, .badge-light[href]:hover {
+  background-color: #f2f3f3;
+  color: #626262;
+}
+
+.badge-dark {
+  background-color: #555555;
+}
+
+.badge-dark[href]:focus, .badge-dark[href]:hover {
+  background-color: #494949;
 }
 
 /*red*/
@@ -10918,6 +10936,10 @@ $input-color-placeholder: #999 !default;*/
   background-color: #F5820F;
 }
 
+.card-secondary {
+  background-color: #E5E6E7;
+}
+
 .card-success {
   background-color: #5CB85C;
 }
@@ -10934,38 +10956,39 @@ $input-color-placeholder: #999 !default;*/
   background-color: #C40B07;
 }
 
-/* Cards 
-
+.card-primary, .card-success, .card-info, .card-warning, .card-danger {
+  border: none;
+}
 
 .card-outline-primary {
-  border-color: #429DB5; 
+  border-color: #F5820F;
 }
 
 .card-outline-secondary {
-  border-color: #ccc;   
+  border-color: #E5E6E7;
 }
 
 .card-outline-success {
-  border-color: #A6D7AC; 
+  border-color: #5CB85C;
 }
 
 .card-outline-info {
-  border-color:  #106680; 
+  border-color: #27B0A7;
 }
 
 .card-outline-warning {
-  border-color: #DB7A13;  
+  border-color: #EDA509;
 }
 
 .card-outline-danger {
-  border-color: #C40B07;  
+  border-color: #C40B07;
 }
 
-.nav-tabs .nav-link.active{
-  box-shadow: 0px;
+.nav-tabs .nav-link.active {
+  -webkit-box-shadow: 0px;
+          box-shadow: 0px;
 }
 
-*/
 .w-20 {
   width: 20rem;
 }
@@ -11021,8 +11044,8 @@ $input-color-placeholder: #999 !default;*/
   color: #F5820F;
 }
 
-.card-primary, .card-success, .card-info, .card-warning, .card-danger {
-  border: none;
+.card-body {
+  padding: 1em;
 }
 
 .deepbluegrad {
@@ -11242,19 +11265,59 @@ $input-color-placeholder: #999 !default;*/
 
 .list-group-item.active {
   z-index: 2;
-  color: #fff;
+  color: #ffffff;
   background-color: #F5820F;
   border-color: #F5820F;
+}
+
+.list-group-item-primary {
+  color: #984f06;
+  background-color: #fcdbba;
+}
+
+.list-group-item-secondary {
+  color: #494949;
+  background-color: #f2f3f3;
+}
+
+.list-group-item-success {
+  color: #2d672d;
+  background-color: #d8eed8;
+}
+
+.list-group-item-warning {
+  color: #8b6105;
+  background-color: #fce8bb;
+}
+
+.list-group-item-danger {
+  color: #930805;
+  background-color: #fdcecd;
+}
+
+.list-group-item-info {
+  color: #19716c;
+  background-color: #d6f6f4;
+}
+
+.list-group-item-light {
+  color: #566481;
+  background-color: #F6F7F9;
+}
+
+.list-group-item-dark {
+  color: #090909;
+  background-color: #bbbbbb;
 }
 
 /* A-Spot */
 .caption {
   bottom: 0;
   position: absolute;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(60%, #000), to(transparent)) repeat scroll 0 0 transparent;
-  background: linear-gradient(bottom, #000 60%, transparent 100%) repeat scroll 0 0 transparent;
-  background: -o-linear-gradient(bottom, #000 60%, transparent 100%) repeat scroll 0 0 transparent;
-  color: #fff;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(60%, #000000), to(transparent)) repeat scroll 0 0 transparent;
+  background: linear-gradient(bottom, #000000 60%, transparent 100%) repeat scroll 0 0 transparent;
+  background: -o-linear-gradient(bottom, #000000 60%, transparent 100%) repeat scroll 0 0 transparent;
+  color: #ffffff;
 }
 
 .a-spot-image {
@@ -11301,8 +11364,8 @@ $input-color-placeholder: #999 !default;*/
   padding-right: 1.6rem;
   padding-left: 1.6rem;
   font-size: 1rem;
-  color: #fff;
-  /*background-color: #f4f6f8;*/
+  color: #ffffff;
+  /*background-color: $lightest-cloud;*/
 }
 
 .ColorPaletteLabel {
@@ -11316,7 +11379,7 @@ $input-color-placeholder: #999 !default;*/
 }
 
 .ColorPaletteShade.hasDarkText {
-  color: #161d25;
+  color: #161616;
 }
 
 .ColorPaletteLabel, .ColorPaletteValue {
